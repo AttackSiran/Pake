@@ -1,5 +1,5 @@
 name(Linux),name(Mac/Windows),name_zh,url
-Simplenote,Simplenote,Simplenote,https://app.simplenote.com/login/
-AList,AList,AList,http://127.0.0.1:5244/
-Zhihu,Zhihu,知乎,https://www.zhihu.com/
+simplenote,Simplenote,Simplenote,https://app.simplenote.com/login/
+alist,AList,AList,http://127.0.0.1:5244/
+zhihu,Zhihu,知乎,https://www.zhihu.com/
 wechat gzh,Wechat gzh,微信公众平台,https://mp.weixin.qq.com/
